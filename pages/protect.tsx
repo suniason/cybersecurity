@@ -45,8 +45,7 @@ const Protect : React.FC = () => {
                             <div className="grid3">
                                 <span>3</span><br />
                                 <b>Always be cautious of suspicious emails, links, and messages from unknown sources.</b> <br />
-                                Do not click on any suspicious links or download attachments from unsolicited emails.
-                                
+                                Do not click on any suspicious links or download attachments from unsolicited emails.                              
                             </div>
                             <div className="grid4">
                                 <span>4</span><br />
