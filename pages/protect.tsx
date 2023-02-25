@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 const Protect : React.FC = () => {
     
     return(
