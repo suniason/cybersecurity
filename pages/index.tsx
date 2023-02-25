@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Prtoect Yourself Online</title>
+        <title>Online Safety</title>
       </Head>
       <main>
         <Protect/>
