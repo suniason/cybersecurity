@@ -5,14 +5,16 @@ import Protect from './protect'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
+
   return (
     <>
       <Head>
         <title>Online Safety</title>
+        {/* <link rel="icon" href="/security.png" /> */}
       </Head>
-      <main>
+      <div>
         <Protect/>
-      </main>
+      </div>
     </>
   )
 }
