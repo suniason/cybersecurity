@@ -19,7 +19,6 @@ const Protect : React.FC = () => {
                     </div>
                     </div>
                 </div>
-                
             </div>
             <div className="wrapper">
                 <div className="content2">
@@ -35,15 +34,13 @@ const Protect : React.FC = () => {
                                 <b>Be mindful of oversharing.</b><br />
                                 Always be careful about the personal information you share online, 
                                 especially on social media platforms. Review and adjust your privacy 
-                                settings to limit the amount of personal information that others can see.
-                                
+                                settings to limit the amount of personal information that others can see.    
                             </div>
                             <div className="grid2">
                                 <span>2</span><br />
                                 <b>Use strong and unique passwords for each of your online accounts. </b><br />
                                 Also, avoid using the same password across multiple accounts. 
-                                You can also consider using a password manager to generate and store your passwords securely.
-                                
+                                You can also consider using a password manager to generate and store your passwords securely. 
                             </div>
                             <div className="grid3">
                                 <span>3</span><br />
